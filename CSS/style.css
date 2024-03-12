@@ -1,18 +1,18 @@
-body{
+body {
     margin: 0;
-    background-image: url("images/skyimg2.jpg");
+    background-image: url(images/skyimg2.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
 }
 
-.img1{
+.img1 {
     width: 30px;
     height: 30px;
     margin: 15px 0 0 100px;
     border-radius: 50%;
 }
 
-.title{
+.title {
     margin: -27px 0 0 140px;
     color: lightblue;
     font-weight: 700;
@@ -51,4 +51,4 @@ li {
 .button1:hover {
     color: lightgreen;
     background-color: rgba(144, 238, 144, 0)
-}
+} 
