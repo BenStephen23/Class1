@@ -134,7 +134,7 @@ body {
 
 .elevate {
     /* background-color: pink; */
-    margin-top: -42px;
+    margin-top: 10px;
 }
 
 .elevh4{
@@ -292,6 +292,7 @@ body {
     /* text-align: center; */
     margin-top: 50px;
     background-color: lightgrey;
+    padding-top: -20px;
 }
 
 .compare h4 {
@@ -320,6 +321,52 @@ body {
     /* justify-content: center;
     align-items: center; */
 }
+
+.rating {
+    text-align: center;
+}
+
+.rating > h3 {
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.rating > p {
+    margin-top: -25px;
+}
+.rate {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-top: -80px;
+    padding: 60px;
+    margin-bottom: -30px;
+}
+.rate  p{ 
+    margin-top: -15px;
+}
+
+.rate h4 {
+    color: #304438;
+    font-weight: bold; 
+    font-size: 25px;
+    margin-top: -10px;
+}
+
+.rate img {
+    width: 70px;
+    height: 40px;   
+}
+
+.rating button{
+    margin-top: -95px;
+    background-color: white;
+    color: #304438;
+    font-size: 20px;
+    font-family: fantasy;
+    border: 2px solid #304438;
+}
+
+
 /* 
 .float1 {
     position: absolute;
