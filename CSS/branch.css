@@ -375,11 +375,13 @@ body {
     margin-top: 50px;
     display: flex;
     justify-content: space-evenly;
+    padding: 0 90px !important;
 }
 
 .expert img {
     height: 300px !important;
     width: 200px !important;
+    margin-right: -300px;
 
 }
 
@@ -387,6 +389,84 @@ body {
     font-size: 20px;
     margin-top: 20px;
     margin-left: -60px;
+    /* font-size: 90px; */
+
+}
+
+.exp-para {
+    font-weight: bolder;
+    font-size: 25px;
+    padding-top: 180px;
+    padding-left: 60px;
+    color: white;
+}
+
+.expert button {
+    background-color: #304438;
+    color: white;
+    border: none;
+    /* margin: 40px 0 0 200px; */
+    padding: 0 30px;
+    font-size: 20px;
+    font-family: fantasy;
+}
+
+.trust {
+    background-color: #304438;
+    height: 150px;
+    /* margin-top: -px; */
+    padding: 5px;
+}
+
+.trust h3 {
+    text-align: center;
+    color: white;
+}
+
+.trustee {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.trustee img {
+    width: 100px;
+    height: 60px;
+}
+
+.answered {
+    background-color: lightgrey;
+    height: 600px;
+    margin-top: -10px;
+    padding-top: 0.5px;
+}
+
+.answered h3 {
+    text-align: center;
+    font-size: 30px;
+    /* margin-top: -px; */
+}
+
+.answer {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding: 0 250px;
+}
+
+.answer p {
+    margin-top: -6px;
+}
+
+.answer span {
+    color: #304438;
+    font-size: 20px;
+    padding-bottom: 20px;
+    font-weight: 900;   
+}
+
+.answered button {
+    /* align-items: center; */
+    /* text-align: center; */
+    /* justify-content: center; */
 }
 /* 
 .float1 {
