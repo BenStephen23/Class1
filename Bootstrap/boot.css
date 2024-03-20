@@ -1,0 +1,213 @@
+.img1 {
+    margin: 20px 110px;
+}
+
+.list1 li {
+    margin-right: 40px;
+}
+
+.nav-link {
+    color: black !important;
+font-size: 15px !important;
+}
+
+.nav-link:hover {
+    background-color: green;
+    border-radius: 5px;
+    color: white !important;
+}
+
+.navbar {
+    background-color: white!important;
+}
+
+.form1{
+    background-color: #60020A !important;
+} 
+
+.search {
+    display: block;
+    height: 40px;
+    /* width: 90px; */
+    margin:  2px 0 0 40px;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 4px solid #ced4da;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: 0.25rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+button{
+    background-color: #2b5b28 !important;
+    margin-right: 40px !important;
+}
+
+
+.firstback {
+    background-image: url(bootimg/WhatsApp\ Image\ 2024-03-18\ at\ 06.06.31.jpeg);
+    /* opacity: 0; */
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+h4 {
+    padding-top: 100px;
+    padding-left: 90px;
+    font-size: 60px;
+    font-weight: 300;
+    color: white !important;
+}
+
+.sp2 {
+    /* font-size: 90px; */
+    font-weight: 900 !important;;
+}
+.sp1 p {
+    padding-top: 50px;
+    padding-left: 90px;
+    color: white !important;
+    font-size: 20px;
+}
+
+.bigbtn {
+    margin-top: 50px;
+    margin-left: 90px;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px !important;
+    color: white !important;
+    border-radius: 10px;
+    border: 1px solid white !important;
+    transition: transform 0.3s;
+}
+
+.bigbtn:hover {
+    transform: scale(1.1);
+}
+.sp1 {
+    /* padding-left: 400px !important; */
+}
+
+.name {
+    background-color: grey !important;
+    height: 700px !important;
+    padding-top: 70px;
+    padding-left: 100px;
+    position: relative;
+}
+
+.line1 {
+    margin-top: 50px;
+    margin-left: 3px;
+    background-color: #60020A;
+    width: 100px !important;
+    height: 2px!important;
+    
+}
+
+.line2 {
+    background-color: lightgray;
+    /* margin-left: -20px;   */
+    width: 90%; 
+    margin-top: -30px;
+    
+    
+
+}
+.nos {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    
+}
+
+.nos p {
+    background-color: #60020A;
+    color: white;
+    padding: 4px 0 0 10px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    z-index: 1;
+}
+
+
+
+.container-fluid {
+    margin: 10px 0 0 -30px!important;
+    padding-top: 50px;
+}
+
+
+
+.col-lg-3 {
+    margin: 20px 5px !important;
+    padding: 20px !important;
+}
+
+.card {
+    width: 300px;
+    margin-right: 30px !important;
+    /* justify-content: space-evenly !important; */
+}
+
+.count {
+    margin-top: 80px;
+    padding-left: 100px;
+}
+
+
+.pc1 {
+    background-image: url(bootimg/pexels-andrea-piacquadio-722014.jpg);
+    width: 400px;
+    height: auto !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    border-radius: 5% !important;
+    margin: 10px 20px;
+}
+.col-lg-4 {
+    border-radius: 25px;
+
+}
+.pc2 {
+    background-image: url(bootimg/pexels-anurag-chayacitra-17129803.jpg);
+    width: 400px;
+    height: 350px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    margin: 0 10px;
+    /* margin-top: 42px !important; */
+    border-radius: 5% !important;
+}
+
+.pc3 {
+    background-image: url(bootimg/WhatsApp\ Image\ 2024-03-19\ at\ 04.21.28.jpeg);
+    height: 350px;
+    width: 400px; 
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* margin: 10px 10px; */
+}
+
+.pc4 {
+    background-image: url(bootimg/pexels-mark-dalton-631401.jpg);
+    height: 350px;
+    width: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* margin: ; */
+} 
